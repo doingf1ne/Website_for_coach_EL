@@ -1,26 +1,28 @@
 @import "variables";
 @import "base";
 
+body {
+  border: 5px solid #df1616;
+}
 
 
-container1{
-    
 
 
+header{
+  border: 20px solid #e01515;
+  background-size: cover;
+  background-repeat: no-repeat;
 
-
-    
-
-logo{
-    a{
-
+.invest{
+  border: 5px solid #e01515;
     }
-}
-name{
 
-}
-}
+.project {
+  border: 5px solid #e01515;
+      }
+    
 
-container2{
-
-}
+.transformation {
+  border: 5px solid #e01515;
+      }
+    }
