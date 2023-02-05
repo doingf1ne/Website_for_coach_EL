@@ -1,0 +1,96 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ :root{
+font-size: 62.5%;
+font: normal 0.9em 'Raleway', tahoma, arial, helvetica, sans-serif;;
+ }
+
+
+
+body {
+  /* border: 5px solid #df1616; */
+}
+
+
+
+
+header{
+ /*  border: 5px solid #e01515; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+
+  
+}
+
+
+
+.invest{
+  /* border: 5px solid #e01515; */
+  margin-left:10%;
+  padding-top: 2%;
+  font: normal 0.9em 'Raleway', tahoma, arial, helvetica, sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  color:#e01515;
+  
+ 
+  
+    }
+    .invest a{
+      text-decoration: none;
+      cursor: pointer;
+      color:#cb0707;
+     
+    }
+
+    .invest a:hover {
+      color:#f85050;
+    }
+
+
+    .project {
+    /* border: 5px solid #e01515; */
+     margin-left: 10%;
+     margin-top: 0.5%;
+     font-size: 1.2rem;
+      }
+
+      .project a{
+        text-decoration: none;
+        cursor: pointer;
+        color:#292222;
+       
+      }
+
+
+.transformation {
+  /* border: 5px solid #e01515; */
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-bottom: 15%;
+  font-size: 5rem;
+  font-weight: 100;
+
+      }
+
+      .transformation a{
+        text-decoration: none;
+        cursor: pointer;
+        color:#292222;
+       
+      }
+
+      .container{
+        border: 5px solid #e01515;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+      }
+
+
+    
